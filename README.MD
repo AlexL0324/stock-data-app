@@ -12,3 +12,5 @@ Queries Alpha Vantage and charts stock data for a chosen date range.
 
 Note: free keys limit daily data to the last ~100 trading days
 and 25 requests per day. Use Weekly/Monthly for long date ranges.
+
+Testing it, we only manage to get data for 2026 only

@@ -7,7 +7,6 @@ A web app that queries the [Alpha Vantage](https://www.alphavantage.co/) API and
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed **and running** (the engine must show as running before step 4)
 - A free Alpha Vantage API key: https://www.alphavantage.co/support/#api-key
-  (For grading convenience, the key may also be provided privately with the submission.)
 
 ### Run with Docker (recommended)
 
